@@ -1,5 +1,5 @@
 _repo: The-Nile-Tributaries-of-Abyssinia-and-the-Sword-Hunters-of-the-Hamran-Arabs_2125
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'DT'
 - !lcsh 'Ethiopia -- Description and travel'
 - !lcsh 'Nile River'
+- GITenberg
 title: The Nile Tributaries of Abyssinia, and the Sword Hunters of the Hamran Arabs
 url: http://www.gutenberg.org/ebooks/2125
